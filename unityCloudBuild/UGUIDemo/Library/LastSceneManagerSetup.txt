@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Lenovo/Desktop/MyUnityFrameWork-master/Assets/main.unity
+  isLoaded: 1
+  isActive: 1
